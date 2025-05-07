@@ -1,2 +1,2 @@
 My capstone project is to analyse a global cancer patient dataset from 2015-2024. (Negar)
-Very interesting, Negar! My capstone project is to find patterns of protein oxidation during the cell cycle and build a model to predict them! (Stefano)
+Very interesting, Negar! My capstone project is to find patterns of protein oxidation during the cell cycle and build a model to predict them. (Stefano)
